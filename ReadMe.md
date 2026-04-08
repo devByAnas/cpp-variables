@@ -112,7 +112,6 @@ int main()
 | Recommended use  | Most situations ✅      | Use sparingly ⚠️             |
 
 ---
----
 
 ## 👨‍💻 Author
 > devByAnas
